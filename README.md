@@ -2,7 +2,7 @@
 
 A Python application that performs real-time object detection using YOLOv5 and webcam feed with a simple Tkinter GUI.
 
-![image](https://github.com/user-attachments/assets/c14b87a0-ca55-4de5-a7d5-7bd2012d8c76)
+![image](https://github.com/user-attachments/assets/47e4f518-11fd-43fa-bb76-9dfd92c1fa19)
 
 
 ## Features
